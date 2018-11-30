@@ -1,5 +1,7 @@
 # trex
 T-Rex NVIDIA GPU miner with web control monitoring page
+Original repo:
+https://github.com/trexminer/T-Rex
 # Usage
 ## Windows
 t-rex.exe -a x16r -o stratum+tcp://rvn-eu1.nanopool.org:12222 -u YOUR_ADDRESS/YOUR_WORKER_NAME/YOUR_EMAIL -o stratum+tcp://rvn-eu2.nanopool.org:12222 -u YOUR_ADDRESS/YOUR_WORKER_NAME/YOUR_EMAIL -p x -l log.txt

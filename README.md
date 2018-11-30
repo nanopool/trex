@@ -1,5 +1,5 @@
 # trex
-T-Rex NVIDIA GPU miner with web control monitoring page
+T-Rex NVIDIA GPU miner with web control monitoring page.
 Original repo:
 https://github.com/trexminer/T-Rex
 # Usage

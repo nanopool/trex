@@ -4,10 +4,10 @@ Original repo:
 https://github.com/trexminer/T-Rex
 # Usage
 ## Windows
-t-rex.exe -a x16r -o stratum+tcp://rvn-eu1.nanopool.org:12222 -u YOUR_ADDRESS/YOUR_WORKER_NAME/YOUR_EMAIL -o stratum+tcp://rvn-eu2.nanopool.org:12222 -u YOUR_ADDRESS/YOUR_WORKER_NAME/YOUR_EMAIL -p x -l log.txt
+t-rex.exe -a x16r -o stratum+tcp://rvn-eu1.nanopool.org:12222 -u YOUR_ADDRESS.YOUR_WORKER_NAME/YOUR_EMAIL -o stratum+tcp://rvn-eu2.nanopool.org:12222 -u YOUR_ADDRESS.YOUR_WORKER_NAME/YOUR_EMAIL -p x -l log.txt
 
 ## Linux
-./t-rex -a x16r -o stratum+tcp://rvn-eu1.nanopool.org:12222 -u YOUR_ADDRESS/YOUR_WORKER_NAME/YOUR_EMAIL -o stratum+tcp://rvn-eu2.nanopool.org:12222 -u YOUR_ADDRESS/YOUR_WORKER_NAME/YOUR_EMAIL -p x -l log.txt
+./t-rex -a x16r -o stratum+tcp://rvn-eu1.nanopool.org:12222 -u YOUR_ADDRESS.YOUR_WORKER_NAME/YOUR_EMAIL -o stratum+tcp://rvn-eu2.nanopool.org:12222 -u YOUR_ADDRESS.YOUR_WORKER_NAME/YOUR_EMAIL -p x -l log.txt
 
 # bitcointalk link
 https://bitcointalk.org/index.php?topic=4432704.0
